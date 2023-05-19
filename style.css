@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(0, 88%, 27%);
+    color: #fff;
+    /* text-align: center; */
+    font-family: Poppins, sans-serif;
+    padding: 15px;
+    line-height: 1.5;
+}
+.header{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+.list{
+    font-size: 20px;
+    /* text-align: center; */
+}
+.last{
+    text-align: center;
+}
+#img{
+    text-align: center;
+    background-image: url(/image/2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover
+}
